@@ -938,6 +938,19 @@ border-radius: 50%;
 	transform: scale(1);
 }
 
+.image-box .overlay-container {
+    height: 200px; 
+    overflow: hidden; 
+    position: relative; 
+}
+
+.image-box .overlay-container img {
+    display: block; 
+    width: 100%;   
+    height: 100%;  
+    object-fit: cover; 
+}
+
 
 /* Footer
 ----------------------------------------------------------------------------- */
