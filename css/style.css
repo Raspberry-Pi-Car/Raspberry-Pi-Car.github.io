@@ -262,6 +262,8 @@ font-family: 'Raleway';
 font-weight: 600;
 transition: background 0.3s, border-color 0.3s;
 margin-top:20px;
+color: inherit;
+text-decoration: none;
 }
 button.cta-button:hover{
 background:#fff;
