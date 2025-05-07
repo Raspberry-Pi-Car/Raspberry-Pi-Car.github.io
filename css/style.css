@@ -790,6 +790,22 @@ border-radius: 50%;
 	text-align: center;
 	padding: 4px;
 }
+.social-links-standalone {
+	color: #BBBBBB;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	border: 1px solid #D0D0D0;
+	width: 52px;
+	height: 52px;
+	display: inline-block;
+	border-radius: 50%;
+	font-size: 26px;
+	text-align: center;
+	padding: 4px;
+}
 .social-links li.twitter a:hover {
 	color: #55acee;
 }
@@ -913,4 +929,12 @@ border-radius: 50%;
 	filter: alpha(opacity=100);
 	-webkit-transform: scale(1);
 	transform: scale(1);
+}
+
+
+/* Footer
+----------------------------------------------------------------------------- */
+
+.footer .widget-content {
+	text-align: center;
 }
