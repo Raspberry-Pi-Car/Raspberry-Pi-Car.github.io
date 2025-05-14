@@ -99,6 +99,11 @@ img {
 .list-icons li {
 	padding: 0 0 15px 0;
 }
+p span {
+	color: #DB0A61;
+	font-style: italic;
+	font-weight: bold;
+}
 blockquote {
 	border-left: none;
 	padding-left: 0;
